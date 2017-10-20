@@ -12,8 +12,9 @@ Markdown Online Programming:
 + [stackedit](https://stackedit.io/editor)
 
 Markdown Local Programming:
-+ Windows : MarkdownPad. Download from (http://markdownpad.com)
-+ Mac: Mou. Download from (http://25.io/mou)
++ ~~Windows : MarkdownPad. Download from (http://markdownpad.com)~~
+
++ ~~Mac: Mou. Download from (http://25.io/mou)~~
 
 # Markdown Grammar
 1. Headers. Use "#" to distinguish different titles. n"#" means the nth header. example:#hello world!
