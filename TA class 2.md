@@ -110,7 +110,6 @@ Tips: if you use online markdown programming, it's more convenient to insert onl
 10. Math grammar:based on Latex Grammar
 -[cheatsheet](http://blog.csdn.net/zdk930519/article/details/54137476)
 -inline formulas and display formulas
-$x_{11}^4=\sum_{i=1}^{n}y_i$
 
  
 11. R markdown
