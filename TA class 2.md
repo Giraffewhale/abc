@@ -131,7 +131,9 @@ Install mactex for Mac [mactex](http://www.tug.org/mactex/)
 - R markdown Grammar: similar to Latex Grammar.
 - Insert pics from Internet
 - Insert pics from local pc: copy the location of your picture and paste, eg."C:\Users\jy\Pictures\Camera Roll"
+
 ==**wait!**== 
+
 ```sh
 ![show1](C:\\Users\\jy\\Pictures\\Camera Roll\\show1.png)
 ![show1](C:/Users/jy/Pictures/Camera Roll/show1.png)
