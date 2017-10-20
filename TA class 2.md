@@ -109,7 +109,9 @@ Tips: if you use online markdown programming, it's more convenient to insert onl
 
  
 10. Math grammar:based on Latex Grammar
+
 -[math](https://github.com/Giraffewhale/abc/blob/master/TA_class_for_math_formula_writing.pdf)
+
 -[cheatsheet](http://blog.csdn.net/zdk930519/article/details/54137476)
 
  
